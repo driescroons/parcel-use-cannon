@@ -1,0 +1,22 @@
+{
+  "name": "parcel-use-cannon",
+  "version": "1.0.0",
+  "description": "Issue repo for use-cannon /w parcel",
+  "author": "Dries Croons",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^0.5.3",
+    "parcel-bundler": "^1.12.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-three-fiber": "^5.3.10",
+    "three": "^0.123.0"
+  },
+  "devDependencies": {
+    "sass": "^1.30.0"
+  }
+}
