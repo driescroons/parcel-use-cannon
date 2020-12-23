@@ -1,6 +1,6 @@
 # Explanation
 
-Repo for [issuee](https://github.com/pmndrs/use-cannon/issues/142)
+Repo for [issue](https://github.com/pmndrs/use-cannon/issues/142)
 
 # Installation
 
